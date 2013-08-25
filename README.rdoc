@@ -2,4 +2,4 @@
 
 This is the sample application for a "To Do App" created in ROR workshop
 
-Taught by Nikola Created by David Fox-Powell
+Taught by Nikola Created by Keturah Walters
